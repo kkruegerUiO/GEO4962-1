@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Introduction on model"
 teaching: 30
 exercises: 0
 questions:
